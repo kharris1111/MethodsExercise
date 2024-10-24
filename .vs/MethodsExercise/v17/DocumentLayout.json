@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|c:\\users\\12515\\onedrive\\desktop\\repos\\methodsexercise\\methodsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|solutionrelative:methodsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|c:\\users\\12515\\onedrive\\desktop\\repos\\methodsexercise\\methodsexercise\\methodsexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|solutionrelative:methodsexercise\\methodsexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MethodsExercise",
+              "DocumentMoniker": "C:\\Users\\12515\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+              "RelativeDocumentMoniker": "MethodsExercise\\MethodsExercise.csproj",
+              "ToolTip": "C:\\Users\\12515\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+              "RelativeToolTip": "MethodsExercise\\MethodsExercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T16:40:47.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "MethodsExercise\\Program.cs",
               "ToolTip": "C:\\Users\\12515\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\Program.cs",
               "RelativeToolTip": "MethodsExercise\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T19:41:17.239Z",
               "EditorCaption": ""
